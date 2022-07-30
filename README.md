@@ -14,4 +14,4 @@ Instructor login: Username = 20005  Password = SOP89#4
 
 All information is found in the KhalifaUniDB.db file
 
-This is my first ever big project done alone forgive my bad coding
+This is my first project done alone forgive my bad coding
