@@ -31,3 +31,7 @@ click on the edit button to turn edit mode then select any cell and edit it. to 
 to update information click the update button
 
 to remove a section click on any section and click delete
+
+# Sample of outline
+![image](https://user-images.githubusercontent.com/110290833/181917219-88bb408d-943a-4355-8b91-1b331e7bb448.png)
+
