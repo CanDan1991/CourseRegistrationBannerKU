@@ -8,4 +8,3 @@ Student login: Username = 30001 ; Password = Goblin@1991
 Instructor login: Username = 20005 ; Password = SOP89#4
 
 All information is found in the KhalifaUniDB.db file
-
